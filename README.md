@@ -47,6 +47,10 @@ In the end it means you make everything available to the world freely and public
 	- [Public Domain](http://en.wikipedia.org/wiki/Public_domain) for everything
 - Earn revenue from your brand, not your products
 	- See the "How do I earn money?" section
+- Use open communication tools to facilitate collaboration
+	- Twitter
+	- GitHub for source hosting, discussions, and wikis
+	- Google Hangouts On Air for meetings
 
 
 ### How do I earn money and make the transition?
