@@ -14,7 +14,7 @@ Going Open is a blanket term that covers:
 - Open Collaboration
 - Open Data
 - Open Government
-- Open Company
+- Open Companies
 
 In the end it means you make everything available to the world freely and publicly, and earn your money via crowd-funding.
 
@@ -47,12 +47,6 @@ In the end it means you make everything available to the world freely and public
 	- [Public Domain](http://en.wikipedia.org/wiki/Public_domain) for everything
 - Earn revenue from your brand, not your products
 	- See the "How do I earn money?" section
-
-
-### What Implementations of Going Open already exist?
-
-- Open Companies
-- Permissive Open-Source Licenses
 
 
 ### How do I earn money and make the transition?
