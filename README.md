@@ -70,7 +70,7 @@ With going open, instead we:
 In order to do this, the following services are available at our diposal:
 
 
-Everyone can use these to raise money for new projects and ideas that can change the world:
+Everyone can use these to raise money for new projects and ideas that can change the world, or if you have an existing closed-source work you can use these to raise enough money to guarantee going open is feasible for you:
 
 - Once-Off Pre-Orders
 	- [KickStarter](http://www.kickstarter.com/)
