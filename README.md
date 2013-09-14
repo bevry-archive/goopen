@@ -20,12 +20,12 @@ Going Open is a blanket term that covers:
 ### What are the benefits of going open?
 
 - Infinitely and Instantly Scalable Team
-  - Closed teams generally just focus on the roadmap, which doesn't cover the little things; Whereas open teams, opens you up to pull-requests that cover all sorts of small things (add reference)
+	- Closed teams generally just focus on the roadmap, which doesn't cover the little things; Whereas open teams, opens you up to pull-requests that cover all sorts of small things (add reference)
 - You sell your Brand, not your Products
-  - Information was made to be free, and is fundamentally organic, you're not meant to own it
-    - When I say "hello", I don't lose it like psyhical property, instead it is copied into your brain
-    - Reference Tim Beners Lee talking about the Open Data Movement, "you wouldn't believe the amount of execuses people come up with to keep their information closed"
-  - If someone "steals" your product, you are still fine
+	- Information was made to be free, and is fundamentally organic, you're not meant to own it
+		- When I say "hello", I don't lose it like psyhical property, instead it is copied into your brain
+		- Reference Tim Beners Lee talking about the Open Data Movement, "you wouldn't believe the amount of execuses people come up with to keep their information closed"
+	- If someone "steals" your product, you are still fine
 - There is no competition, only collaboration
 
 
@@ -40,11 +40,11 @@ Going Open is a blanket term that covers:
 
 - Make everything available for free
 - Choose a [permissive license](http://en.wikipedia.org/wiki/Permissive_free_software_licence) that indicate your intentions
-  - [Creative Commons](http://creativecommons.org) for creative works
-  - [MIT](http://opensource.org/licenses/mit-license.php) for software
-  - [Public Domain](http://en.wikipedia.org/wiki/Public_domain) for everything
+	- [Creative Commons](http://creativecommons.org) for creative works
+	- [MIT](http://opensource.org/licenses/mit-license.php) for software
+	- [Public Domain](http://en.wikipedia.org/wiki/Public_domain) for everything
 - Earn revenue from your brand, not your products
-  - See the "How do I earn money?" section
+	- See the "How do I earn money?" section
 
 
 ### What Implementations of Going Open already exist?
@@ -70,29 +70,29 @@ With going open, instead we:
 In order to do this, the following services are available at our diposal:
 
 - Once-Off Pre-Orders
-  - [KickStarter](http://www.kickstarter.com/)
-    - [Pozible](http://www.pozible.com/)
-    - [IndieGogo](http://indiegogo.com/)
-  - [Bounties](https://www.bountysource.com/)
+	- [KickStarter](http://www.kickstarter.com/)
+		- [Pozible](http://www.pozible.com/)
+		- [IndieGogo](http://indiegogo.com/)
+	- [Bounties](https://www.bountysource.com/)
 
 - Recurrant Pre-Order
-  - [Patreon](http://www.patreon.com/)
+	- [Patreon](http://www.patreon.com/)
 
 - Once-Off Donations
-  - [Paypal](https://www.paypal.com/webapps/mpp/donate-with-paypal)
+	- [Paypal](https://www.paypal.com/webapps/mpp/donate-with-paypal)
 
 - Recurrant Donations
-  - [Flattr](http://flattr.com/)
-  - [Gittip](https://www.gittip.com/)
+	- [Flattr](http://flattr.com/)
+	- [Gittip](https://www.gittip.com/)
 
 - Alternative Models
-  - Sponsorship Contracts
-  - Advertising
-    - [YouTube Monetization](https://support.google.com/youtube/answer/2490020?hl=en)
-    - [Google AdWords](https://adwords.google.com/)
-  - Referrals
-    - Ubuntu Dash, Firefox Search
-    - Affiliate Recomendations
+	- Sponsorship Contracts
+	- Advertising
+		- [YouTube Monetization](https://support.google.com/youtube/answer/2490020?hl=en)
+		- [Google AdWords](https://adwords.google.com/)
+	- Referrals
+		- Ubuntu Dash, Firefox Search
+		- Affiliate Recomendations
 
 
 ## Contribute
