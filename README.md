@@ -53,7 +53,7 @@ Going Open is a blanket term that covers:
 - Permissive Open-Source Licenses
 
 
-### How do I earn money?
+### How do I earn money and make the transition?
 
 Traditionally, we earned our money to do what we love by:
 
@@ -69,14 +69,23 @@ With going open, instead we:
 
 In order to do this, the following services are available at our diposal:
 
+
+Everyone can use these to raise money for new projects and ideas that can change the world:
+
 - Once-Off Pre-Orders
 	- [KickStarter](http://www.kickstarter.com/)
 		- [Pozible](http://www.pozible.com/)
 		- [IndieGogo](http://indiegogo.com/)
 	- [Bounties](https://www.bountysource.com/)
 
+
+Creatives can use use these to raise money for their next works:
+
 - Recurrant Pre-Order
 	- [Patreon](http://www.patreon.com/)
+
+
+Everyone can use these to accept money from those they've inspired:
 
 - Once-Off Donations
 	- [Paypal](https://www.paypal.com/webapps/mpp/donate-with-paypal)
@@ -84,6 +93,9 @@ In order to do this, the following services are available at our diposal:
 - Recurrant Donations
 	- [Flattr](http://flattr.com/)
 	- [Gittip](https://www.gittip.com/)
+
+
+Everyone may be able to use these:
 
 - Alternative Models
 	- Sponsorship Contracts
@@ -93,6 +105,7 @@ In order to do this, the following services are available at our diposal:
 	- Referrals
 		- Ubuntu Dash, Firefox Search
 		- Affiliate Recomendations
+
 
 
 ### Follow Up Learning
