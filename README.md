@@ -16,6 +16,8 @@ Going Open is a blanket term that covers:
 - Open Government
 - Open Company
 
+In the end it means you make everything available to the world freely and publicly, and earn your money via crowd-funding.
+
 
 ### What are the benefits of going open?
 
