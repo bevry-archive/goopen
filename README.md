@@ -95,6 +95,12 @@ In order to do this, the following services are available at our diposal:
 		- Affiliate Recomendations
 
 
+### Follow Up Learning
+
+- [Talk: Open-Source will leave you behind](http://www.youtube.com/watch?v=I9577a9c1OQ&feature=c4-overview-vl&list=PLYVl5EnzwqsQs0tBLO6ug6WbqAbrpVbNf)
+	- > In the end, the decision to go open-source or not, is how difficult do you want to make the reverse engineering process? Going closed means very difficult and no attribution for you, going open means very easy and attribution to you.
+
+
 ## Contribute
 
 - To update content, [send pull requests on the README.md file](https://github.com/bevry/goopen/edit/master/README.md)
