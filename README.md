@@ -135,7 +135,7 @@ Open-sourcing everything while still earning a full time income may seem like a 
 - [Talk: Open-Source will leave you behind](http://www.youtube.com/watch?v=I9577a9c1OQ&feature=c4-overview-vl&list=PLYVl5EnzwqsQs0tBLO6ug6WbqAbrpVbNf)
 	- In the end, the decision to go open-source or not, is how difficult do you want to make the reverse engineering process? Going closed means very difficult and no attribution for you, going open means very easy and attribution to you.
 - [Talk: Amanda Palmer: The Art of Asking](http://www.youtube.com/watch?v=xMj_P_6H69g)
-	- We give all our music away for free... instead of forcing people to pay us money, we let them.
+	- We raised $1.192 million dollars by giving our music away for free... instead of forcing people to pay us money, we let them.
 
 
 ## Contribute
