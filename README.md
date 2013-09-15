@@ -79,7 +79,7 @@ Everyone can use these to raise money for new projects and ideas that can change
 	- [Bounties](https://www.bountysource.com/)
 
 
-Creatives can use use these to raise money for their next works:
+Creatives (musicians, authors, artists) can use use these to raise money for their next works:
 
 - Recurrant Pre-Order
 	- [Patreon](http://www.patreon.com/)
@@ -107,11 +107,35 @@ Everyone may be able to use these:
 		- Affiliate Recomendations
 
 
+### Typical Transition Path
+
+Open-sourcing everything while still earning a full time income may seem like a difficult prospect. Here is what the usual transition path looks like:
+
+- Get Gittip and Flattr accounts
+	- Use this to receive donations from people who believe in you
+- Get a Paypal Donate Button
+	- Use this to receive one-off donations from people who believe in you
+- Get a BountySource or Patreon account
+	- Use this to receive pre-orders of new requests, features, courses, trainings, whatever
+- Get an Adsense Account and turn on Monetization on Youtube
+	- Use this to place advertising on your website/blog, as well on your Youtube (and Google Hangout on Air) videos
+- Create a Sponsorship Contract
+	- Use this to receive large (100+) donations from known people who believe in you
+- Release all your works under one of the permissive licences
+	- Use this to provide your work to others, while allowing your brand to grow as your work is spread and remixed
+- Provide free Google Hangouts on Air
+	- Use this to provide your advice to others, while allowing your brand to grow as you do so
+- Provide paid Consulting Services
+	- Use this to pay the bills until the more passive income streams have fulfilled, as well as for traditional clients
+
+
 
 ### Follow Up Learning
 
 - [Talk: Open-Source will leave you behind](http://www.youtube.com/watch?v=I9577a9c1OQ&feature=c4-overview-vl&list=PLYVl5EnzwqsQs0tBLO6ug6WbqAbrpVbNf)
-	- > In the end, the decision to go open-source or not, is how difficult do you want to make the reverse engineering process? Going closed means very difficult and no attribution for you, going open means very easy and attribution to you.
+	- In the end, the decision to go open-source or not, is how difficult do you want to make the reverse engineering process? Going closed means very difficult and no attribution for you, going open means very easy and attribution to you.
+- [Talk: Amanda Palmer: The Art of Asking](http://www.youtube.com/watch?v=xMj_P_6H69g)
+	- We give all our music away for free... instead of forcing people to pay us money, we let them.
 
 
 ## Contribute
