@@ -92,7 +92,7 @@ In order to do this, the following services are available at our diposal:
 
 Everyone can use these to raise money for new projects and ideas that can change the world, or if you have an existing closed-source work you can use these to raise enough money to guarantee going open is feasible for you:
 
-- Once-Off Pre-Orders
+- **Once-Off Pre-Orders**
 	- [KickStarter](http://www.kickstarter.com/)
 		- [Pozible](http://www.pozible.com/)
 		- [IndieGogo](http://indiegogo.com/)
@@ -101,23 +101,23 @@ Everyone can use these to raise money for new projects and ideas that can change
 
 Creatives (musicians, authors, artists) can use use these to raise money for their next works:
 
-- Recurrant Pre-Order
+- **Recurrant Pre-Order**
 	- [Patreon](http://www.patreon.com/)
 
 
 Everyone can use these to accept money from those they've inspired:
 
-- Once-Off Donations
+- **Once-Off Donations**
 	- [Paypal](https://www.paypal.com/webapps/mpp/donate-with-paypal)
 
-- Recurrant Donations
+- **Recurrant Donations**
 	- [Flattr](http://flattr.com/)
 	- [Gittip](https://www.gittip.com/)
 
 
 Everyone may be able to use these:
 
-- Alternative Models
+- **Alternative Models**
 	- Sponsorship Contracts
 	- Advertising
 		- [YouTube Monetization](https://support.google.com/youtube/answer/2490020?hl=en)
