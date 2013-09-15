@@ -38,7 +38,7 @@ This campaign aims to rectify common misconceptions about the open movement as w
 - There is no competition, only collaboration
 
 
-### What happens if I don't open everything?
+### What happens if I don't go open?
 
 Have you ever feared what would happen if a superior competitor stole all of your work and started packaging into together into a superior bundle? Or if you have a ground breaking idea, release it in your product, then have people reverse engineer clones of it all the time without crediting you? Pretty scary right?
 
