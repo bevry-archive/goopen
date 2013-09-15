@@ -1,13 +1,13 @@
 # Go Open
 
-Increasing the awareness of Going Open and removing the FUD around them
+A campaign to help increase awareness and remove FUD about Going Open
 
 
 ## Story
 
-### What is the open movement?
+### What is Going Open?
 
-The open movement is a blanket term that covers:
+Going Open, imples adopting the principles of the Open Movement, which is a blanket term that covers:
 
 - [Free Open-Source Software](http://en.wikipedia.org/wiki/Free_and_open-source_software)
 - [Free Culture](http://en.wikipedia.org/wiki/Free_culture_movement)
