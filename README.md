@@ -9,12 +9,12 @@ Increasing the awareness of Going Open and removing the FUD around them
 
 Going Open is a blanket term that covers:
 
-- Free Open-Source Software
-- Free Culture
-- Open Collaboration
-- Open Data
-- Open Government
-- Open Companies
+- [Free Open-Source Software](http://en.wikipedia.org/wiki/Free_and_open-source_software)
+- [Free Culture](http://en.wikipedia.org/wiki/Free_culture_movement)
+- [Open Collaboration](http://www.opensym.org/2012/09/28/definition-of-open-collaboration/)
+- [Open Data](http://en.wikipedia.org/wiki/Open_data)
+- [Open Government](http://en.wikipedia.org/wiki/Open_government)
+- [Open Companies](https://medium.com/building-gittip/4cbab7ca1a47)
 
 In the end it means you make everything available to the world freely and publicly, and earn your money via crowd-funding.
 
