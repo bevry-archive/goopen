@@ -150,7 +150,7 @@ Open-sourcing everything while still earning a full time income may seem like a 
 ## Contribute
 
 - To update content, [send pull requests on the README.md file](https://github.com/bevry/goopen/edit/master/README.md)
-- To submit designs and to discuss, [use the Issue Tracker](https://github.com/bevry/goopen/issues)
+- To submit designs, to discuss, and to view the Todo List, [checkout out the Issue Tracker](https://github.com/bevry/goopen/issues)
 
 
 ## License
