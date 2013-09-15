@@ -5,9 +5,9 @@ Increasing the awareness of Going Open and removing the FUD around them
 
 ## Story
 
-### What is Going Open?
+### What is the open movement?
 
-Going Open is a blanket term that covers:
+The open movement is a blanket term that covers:
 
 - [Free Open-Source Software](http://en.wikipedia.org/wiki/Free_and_open-source_software)
 - [Free Culture](http://en.wikipedia.org/wiki/Free_culture_movement)
@@ -17,6 +17,13 @@ Going Open is a blanket term that covers:
 - [Open Companies](https://medium.com/building-gittip/4cbab7ca1a47)
 
 In the end it means you make everything available to the world freely and publicly, and earn your money via crowd-funding.
+
+
+### Why do we need this campaign?
+
+It turns out, that while the open-source industry is well acquianted with the open movement, outside of that tiny little bubble the rest of the world is not, and in some cases, have even been exposed to a lot of FUD about it by closed-sourced companies.
+
+This campaign aims to rectify common misconceptions about the open movement as well as the goal to bring it to the masses.
 
 
 ### What are the benefits of going open?
