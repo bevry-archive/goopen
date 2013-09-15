@@ -58,7 +58,7 @@ Turns out both of those problems can be solved by going open. By going open:
 - [Bevry](http://bevry.me) - [why?](http://bevry.me/about)
 
 
-### How is Going Open implemented?
+### How do I go open?
 
 - Make everything available for free
 - Choose a [permissive license](http://en.wikipedia.org/wiki/Permissive_free_software_licence) that indicate your intentions
@@ -73,7 +73,7 @@ Turns out both of those problems can be solved by going open. By going open:
 	- Google Hangouts On Air for meetings
 
 
-### How do I earn money and make the transition?
+### How do I get paid?
 
 Traditionally, we earned our money to do what we love by:
 
@@ -143,11 +143,11 @@ Open-sourcing everything while still earning a full time income may seem like a 
 	- Use this to receive large (100+) donations from known people who believe in you
 - Release all your works under one of the permissive licences
 	- Use this to provide your work to others, while allowing your brand to grow as your work is spread and remixed
+	- Dependeing on your circumstances, you could even run a Once-Off Pre-Order Campaign (think Kickstarter) to say "If we raise $XXX we will open-source everything!" to help raise awareness, gather feedback, and hopefully enough money to remove the doubts
 - Provide free Google Hangouts on Air
 	- Use this to provide your advice to others, while allowing your brand to grow as you do so
 - Provide paid Consulting Services
 	- Use this to pay the bills until the more passive income streams have fulfilled, as well as for traditional clients
-
 
 
 
