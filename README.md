@@ -38,6 +38,19 @@ This campaign aims to rectify common misconceptions about the open movement as w
 - There is no competition, only collaboration
 
 
+### What happens if I don't open everything?
+
+Have you ever feared what would happen if a superior competitor stole all of your work and started packaging into together into a superior bundle? Or if you have a ground breaking idea, release it in your product, then have people reverse engineer clones of it all the time without crediting you? Pretty scary right?
+
+Turns out both of those problems can be solved by going open. By going open:
+
+- You transition from selling your work, to your brand, so it doesn't matter if your work gets stolen or redistributed, you still earn money as people believe in and donate to your brand instead
+- Instead of people stealing or cloning your work, you have people collaborating on it, and giving you back credit where credit is due
+- As more people collaborate on it, the more work you get done without doing it yourself, and the more your work grows!
+- The more you go open, the more content you have out there, the more content you have out there, the more exposure you have, the more exposure you have, the quicker your business grows
+
+
+
 ### Who's already doing this?
 
 - [Gittip](https://www.gittip.com/) - [why?](https://medium.com/building-gittip)
@@ -137,6 +150,7 @@ Open-sourcing everything while still earning a full time income may seem like a 
 
 
 
+
 ### Follow Up Learning
 
 - [Presentation: Benjamin Lupton: Open-Source will leave you behind](http://www.youtube.com/watch?v=I9577a9c1OQ&feature=c4-overview-vl&list=PLYVl5EnzwqsQs0tBLO6ug6WbqAbrpVbNf)
@@ -145,6 +159,8 @@ Open-sourcing everything while still earning a full time income may seem like a 
 	- We raised $1.192 million dollars by giving our music away for free... instead of forcing people to pay us money, we let them.
 - [Hangout on Air: CentUp, Flattr, Gittip, Patreon - Sustainable Crowdfunding](http://www.youtube.com/watch?v=l1-3AYgZRFQ)
 	- Discussion between and about the different crowd-funding services
+
+
 
 
 ## Contribute
