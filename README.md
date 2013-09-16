@@ -119,6 +119,10 @@ Everyone may be able to use these:
 
 - **Alternative Models**
 	- Sponsorship Contracts
+		- @TODO: Provide open-source contracts they can use
+	- Public Domain Advisory Services over Google Hangouts On Air
+		- @TODO: Provide open-source contracts they can use
+	- Ticket sales to In-Person Trainings and Events (that then get released to Youtube for free, earning additional revenue through Youtube advertising)
 	- Advertising
 		- [YouTube Monetization](https://support.google.com/youtube/answer/2490020?hl=en)
 		- [Google AdWords](https://adwords.google.com/)
