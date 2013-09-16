@@ -36,6 +36,10 @@ This campaign aims to rectify common misconceptions about the open movement as w
 		- Reference Tim Beners Lee talking about the Open Data Movement, "you wouldn't believe the amount of execuses people come up with to keep their information closed"
 	- If someone "steals" your product, you are still fine
 - There is no competition, only collaboration
+- It's still okay to sell tickets to trainings and events, just make them open afterwards!
+	- This will make sure the costs of paying for the venue are covered by those extra enthusiastic wanting to receive more value by being there
+	- And those who can't afford the trainings (the majority of the world) or those who couldn't attent for whatever reason, and those who did attend, can reference the recording at their own time
+	- You can even earn revenue each view by utilising YouTube Monetization, Sponsorship, and other initiatives (more on this later)
 
 
 ### What happens if I don't go open?
