@@ -113,6 +113,7 @@ Everyone can use these to accept money from those they've inspired:
 
 - **Once-Off Donations**
 	- [Paypal](https://www.paypal.com/webapps/mpp/donate-with-paypal)
+	- [Gumroad](http://blog.gumroad.com/post/44000438330/the-data-behind-pay-what-you-want-pricing)
 
 - **Recurrant Donations**
 	- [Flattr](http://flattr.com/)
