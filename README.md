@@ -60,6 +60,7 @@ Turns out both of those problems can be solved by going open. By going open:
 - [Gittip](https://www.gittip.com/) - [why?](https://medium.com/building-gittip)
 - [Balanced](https://www.balancedpayments.com/) - [why?](http://www.fastcolabs.com/3008944/open-company/why-i-made-my-payments-startup-an-open-company)
 - [Bevry](http://bevry.me) - [why?](http://bevry.me/about)
+- [Shuttleworth Foundation](http://www.shuttleworthfoundation.org/) - [why?](http://www.shuttleworthfoundation.org/about-us/our-philosophy/)
 
 
 ### How do I go open?
