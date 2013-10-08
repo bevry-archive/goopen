@@ -1,6 +1,6 @@
 # Go Open
 
-A campaign to help increase awareness and remove FUD about Going Open
+Do and share what you love, while still getting paid.
 
 
 ## Story
